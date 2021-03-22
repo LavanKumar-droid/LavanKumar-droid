@@ -8,12 +8,8 @@
    
 <img align="right" src="https://rakeshvadnala.online/0.jpg" height="200" width="200" >
 
-### Language & Skills:
-[<img align="left" alt="Python" width="22px" src="https://www.sololearn.com/Icons/Courses/1073.png" />][Python]
-[<img align="left" alt="C" width="22px" src="https://www.sololearn.com/Icons/Courses/1089.png" />][C]
-[<img align="left" alt="Java" width="22px" src="https://www.sololearn.com/Icons/Courses/1068.png" />][Java]
-[<img align="left" alt="Java" width="22px" src="https://www.sololearn.com/Icons/Courses/1060.png" />][SQL]
-[<img align="left" alt="HTML" width="22px" src="https://www.sololearn.com/Icons/Courses/1014.png" />][HTML]
+### Skills:
+
 [<img align="left" alt="EH" width="22px" src="http://www.gatewaysoftwaresolutions.com/img/icon/ethical%20hacking.png" />][EH]
 [<img align="left" alt="Nmap" width="22px" src="https://nmap.org/images/nmap-project-logo.png" />][Nmap]
 [<img align="left" alt="Burpsuite" width="22px" src="https://icons.iconarchive.com/icons/goescat/macaron/256/burp-suite-icon.png" />][BS]
