@@ -17,11 +17,7 @@
 [<img align="left" alt="wireshark" width="22px" src="http://www.myiconfinder.com/uploads/iconsets/256-256-42f719a7f3f4ffb7472e66df0765eafd.png" />][WS]
 <br />
 
-[Python]: https://storage.googleapis.com/programminghub/certificate%2F1598690435715.jpg
-[C]: https://www.sololearn.com/Certificate/1089-1170667/jpg
-[Java]: https://www.sololearn.com/Certificate/1068-1170667/jpg
-[SQL]: https://www.sololearn.com/Certificate/1060-1170667/jpg
-[HTML]: https://www.sololearn.com/Certificate/1014-1170667/jpg
+
 [EH]: https://storage.googleapis.com/programminghub/certificate%2F1595704979003.jpg
 [Nmap]: https://rakeshvadnala.online
 [BS]: https://rakeshvadnala.online
