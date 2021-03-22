@@ -1,6 +1,6 @@
  <h1 align="Left"> Hi Infosec Community 👋 </h1>
 <p align="centre"> I am Lavan Kumar Udutha. Lavan had Strong Hands-on experience in cyber security assessments which includes Vulnerability Assessment & Penetration Testing, Application Security & other security configuration reviews.</p>
-   <p align="left">🕷 Experience of identification and mitigation of vulnerabilities.</br> 🔑 Ability to provide remediation solution of vulnerabilities.</br> 📝 Expertise in preparation of reports, write-ups.</br> 🌐 Sound knowledge of network fundamentals.</br>❤️ Secured NOKIA, Harvard University, United Nations, Lenskart, Whirlpool, Art of Living domains </br> 💻 Available for PenTesting Projects.
+   <p align="left">🕷 Experience of identification and mitigation of vulnerabilities.</br> 🔑 Ability to provide remediation solution of vulnerabilities.</br> 📝 Expertise in preparation of reports, write-ups.</br> 🌐 Sound knowledge of network fundamentals.</br>❤️ Secured NOKIA, Harvard University, United Nations, Lenskart, Whirlpool, Art of Living domains.</br>	Secured around in total 500 websites by reporting P1 to P5 level vulnerabilities.</br> Received Hall of Fames from Trip Advisor, Dell Technologies. </br> 💻 Available for PenTesting Projects.
    </p>
    <h2 align="Left">Certified:</h2>
    <p align="left"> [<b>ISO/IEC 27001 Information Security Associate™</b>,<b>Network Secuirty Associate</b>,<b>Chief Information Security Officer</b>, <b>Splunk SIEM 7.x]</b> 
