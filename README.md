@@ -1,6 +1,6 @@
  <h1 align="Left"> Hi there 👋 </h1>
 <p align="centre"> I am Lavan Kumar Udutha. Lavan had Strong Hands-on experience in cyber security assessments which includes Vulnerability Assessment & Penetration Testing, Application Security & other security configuration reviews.</p>
-   <p align="left">🕷 Experience of identification and mitigation of vulnerabilities.</br> 🔑 Ability to provide remediation solution of vulnerabilities. 
+   <p align="left">🕷 Experience of identification and mitigation of vulnerabilities.</br> 🔑 Ability to provide remediation solution of vulnerabilities.</br> 📝 Expertise in preparation of reports, write-ups.</br> 🌐 Sound knowledge of network fundamentals.</br> 💻 Available for PenTesting Projects.
    </p>
    <h2 align="Left">Certified:</h2>
    <p align="left"> [<b>CyberArk Trusstee</b>, <b>Splunk SIEM 7.x</b>, <b>ISO/IEC 27001 Information Security Associate™</b>,<b>Cyber Security Foundation Professional</b>, <b>Ethical Hacker Foundation]</b> 
@@ -81,10 +81,8 @@
  
  <p align="centre"> I am Lavan Kumar Udutha.💞️ Experienced in 
 
-🌐 Sound knowledge of network fundamentals.
-🔑 Ability to provide remediation solution of vulnerabilities.
-📝 Expertise in preparation of reports, write-ups
-💻 Available for PenTesting Projects
+
+
 
 <!---
 LavanKumarUdutha/LavanKumarUdutha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
