@@ -33,10 +33,10 @@
 <br />
 
 
-[website]: https://rakeshvadnala.online
-[twitter]: https://twitter.com/rakeshvadnala
-[instagram]: https://instagram.com/rakeshvadnala
-[linkedin]: https://linkedin.com/in/rakeshvadnala
+[website]: https://lavankumar2604.wixsite.com/hacker
+[twitter]: https://twitter.com/cyberdefender5
+[instagram]: https://instagram.com/lavan_kumar777
+[linkedin]: https://www.linkedin.com/in/lavan-kumar-71001a74/
     
  
  
