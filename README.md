@@ -3,7 +3,7 @@
    <p align="left">🕷 Experience of identification and mitigation of vulnerabilities.</br> 🔑 Ability to provide remediation solution of vulnerabilities.</br> 📝 Expertise in preparation of reports, write-ups.</br> 🌐 Sound knowledge of network fundamentals.</br>❤️ Secured NOKIA, Harvard University, United Nations, Lenskart, Whirlpool, Art of Living domains </br> 💻 Available for PenTesting Projects.
    </p>
    <h2 align="Left">Certified:</h2>
-   <p align="left"> [<b>CyberArk Trusstee</b>, <b>Splunk SIEM 7.x</b>, <b>ISO/IEC 27001 Information Security Associate™</b>,<b>Cyber Security Foundation Professional</b>, <b>Ethical Hacker Foundation]</b> 
+   <p align="left"> [<b>ISO/IEC 27001 Information Security Associate™</b>,<b>Network Secuirty Associate</b>,<b>Chief Information Security Officer</b>, <b>Splunk SIEM 7.x]</b> 
    </p>
    
 <img align="right" src="https://rakeshvadnala.online/0.jpg" height="200" width="200" >
