@@ -24,6 +24,20 @@
 [MT]: https://rakeshvadnala.online
 [WS]: https://rakeshvadnala.online
  
+### Connect with me:
+
+[<img align="left" alt="rakeshvadnala.online" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="rakeshvadnala | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="rakeshvadnala | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="rakeshvadnala | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<br />
+
+
+[website]: https://rakeshvadnala.online
+[twitter]: https://twitter.com/rakeshvadnala
+[instagram]: https://instagram.com/rakeshvadnala
+[linkedin]: https://linkedin.com/in/rakeshvadnala
+    
  
  
  
@@ -69,9 +83,6 @@
  
  
  
- 
- 
- <p align="centre"> I am Lavan Kumar Udutha.💞️ Experienced in 
 
 
 
