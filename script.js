@@ -6,7 +6,7 @@ const COMMANDS = {
   about:
     "Hey! 👋<br>I'm Lavan Kumar. I'm a Penetration Tester and Bug Bounty Hunter, I live for challenging adventures with the intent of making myself productive,skilled person and also to face challenges in this era of modern advanced cybersecurity world.",
   skills:
-    '<span class="code">Languages:</span> Python, JavaScript,HTML,CSS<br><span class="code">Technical:</span> Web Application Pentesting, Network Penetration Testing, Kali Linux, Vulnerability Assessment, Reverse Engineering, Content Writer<br><span class="code">Tools:</span> Kali,Metasploit Framework, Nmap, Burpsuite,Maltego, Nikto, Wireshark, Vega, Maltego, Shodan, Ollydbg, OWASP ZAP',
+    '<span class="code">Languages:</span> Python, JavaScript, HTML, CSS<br><span class="code">Technical:</span> Web Application Pentesting, Network Penetration Testing, Kali Linux, Vulnerability Assessment, Reverse Engineering, Content Writer<br><span class="code">Tools:</span> Kali,Metasploit Framework, Nmap, Burpsuite,Maltego, Nikto, Wireshark, Vega, Maltego, Shodan, Ollydbg, OWASP ZAP',
   edu:
     "Princeton College of Engg & Tech - Power Electronics, 2014-2016<br> DVR Engineering College - Electrical and Electronics Engineering, 2010-2014<br> Alphores Junior College - 2008-2010",
 exper:
