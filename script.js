@@ -2,18 +2,18 @@ const COMMANDS = {
   id:
     'uid=0(root) gid=0(root) groups=0(root)',
   help:
-    'Commands: <span class="code">About</span>, <span class="code">Experience</span>, <span class="code">Edu</span>, <span class="code">Skills</span>, <span class="code">Certies</span>,<span class="code">Contact</span>',
-  About:
+    'Commands: <span class="code">about</span>, <span class="code">edu</span>, <span class="code">skills</span>, <span class="code">exper</span>, <span class="code">contact</span>',
+  about:
     "Hey! 👋<br>I'm Lavan Kumar. I'm a Penetration Tester and Bug Bounty Hunter, I live for challenging adventures with the intent of making myself productive,skilled person and also to face challenges in this era of modern advanced cybersecurity world.",
-  Skills:
-    '<span class="code">Languages:</span> Python, JavaScript, HTML, CSS<br><span class="code">Technical:</span> Web Application Pentesting, Network Penetration Testing, Kali Linux, Vulnerability Assessment, Reverse Engineering, Content Writer<br><span class="code">Tools:</span> Kali, Metasploit Framework, Nmap, Burpsuite, Maltego, Nikto, Wireshark, Vega, Maltego, Shodan, Ollydbg, OWASP ZAP',
-  Edu:
-    "Princeton College of Engg & Tech - Power Electronics,2014-2016<br> DVR Engineering College - Electrical and Electronics Engineering, 2010-2014<br> Alphores Junior College - 2008-2010",
+  skills:
+    '<span class="code">Languages:</span> Python, JavaScript,HTML,CSS<br><span class="code">Technical:</span> Web Application Pentesting, Network Penetration Testing, Kali Linux, Vulnerability Assessment, Reverse Engineering, Content Writer<br><span class="code">Tools:</span> Kali,Metasploit Framework, Nmap, Burpsuite,Maltego, Nikto, Wireshark, Vega, Maltego, Shodan, Ollydbg, OWASP ZAP',
+  edu:
+    "Princeton College of Engg & Tech - Power Electronics, 2014-2016<br> DVR Engineering College - Electrical and Electronics Engineering, 2010-2014<br> Alphores Junior College - 2008-2010",
+exper:
+    "I worked in TechHack Technologies as an Web Application Penetration Tester Intern.",
   // resume:
   //   "<a href='./resume.pdf' class='success link'>resume.pdf</a>",
-  Experience:
-    "I worked in TechHack Technologies as an Web Application Penetration Tester Intern.",
-  Contact:
+  contact:
     "You can contact me on any of following links:<br><a href='https://www.linkedin.com/in/lavan-kumar-71001a74/' class='success link'>LinkedIn</a> ,<a href='https://www.instagram.com/lavan_kumar777//' class='success link'>Instagram</a>, <a href='https://twitter.com/cyberdefender5' class='success link'>Twitter</a>"
   };
 let userInput, terminalOutput;
