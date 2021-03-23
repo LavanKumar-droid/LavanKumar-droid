@@ -5,9 +5,7 @@
    <h2 align="Left">Certified:</h2>
    <p align="left"> [<b>ISO/IEC 27001 Information Security Associate™</b>,<b>Network Secuirty Associate</b>,<b>Chief Information Security Officer</b>, <b>Splunk SIEM 7.x]</b> 
    </p>
-   
-<img align="right" src="https://rakeshvadnala.online/0.jpg" height="200" width="200" >
-
+ 
 ### Skills:
 
 [<img align="left" alt="EH" width="22px" src="http://www.gatewaysoftwaresolutions.com/img/icon/ethical%20hacking.png" />][EH]
