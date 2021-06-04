@@ -18,11 +18,11 @@
 <br />
 
 
-[EH]: https://storage.googleapis.com/programminghub/certificate%2F1595704979003.jpg
-[Nmap]: https://rakeshvadnala.online
-[BS]: https://rakeshvadnala.online
-[MT]: https://rakeshvadnala.online
-[WS]: https://rakeshvadnala.online
+[EH]: https://lavankumarudutha.github.io
+[Nmap]: https://lavankumarudutha.github.io
+[BS]: https://lavankumarudutha.github.io
+[MT]: https://lavankumarudutha.github.io
+[WS]: https://lavankumarudutha.github.io
  
 ### Connect with me:
 
