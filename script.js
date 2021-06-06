@@ -10,7 +10,7 @@ const COMMANDS = {
   edu:
     "Princeton College of Engg & Tech - Power Electronics, 2014-2016<br> DVR Engineering College - Electrical and Electronics Engineering, 2010-2014<br> Alphores Junior College - 2008-2010",
 exper:
-    "I worked in TechHack Technologies as an Web Application Penetration Tester Intern.",
+    "I am working as Junior Information Security Analyst at RiskSek.",
   // resume:
   //   "<a href='./resume.pdf' class='success link'>resume.pdf</a>",
   contact:
