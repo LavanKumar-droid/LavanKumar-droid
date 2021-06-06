@@ -4,7 +4,7 @@ const COMMANDS = {
   help:
     'Commands: <span class="code">about</span>, <span class="code">edu</span>, <span class="code">skills</span>, <span class="code">exper</span>, <span class="code">contact</span>',
   about:
-    "Hey! 👋<br>I'm Lavan Kumar. I'm a Penetration Tester and Bug Bounty Hunter, I live for challenging adventures with the intent of making myself productive,skilled person and also to face challenges in this era of modern advanced cybersecurity world.",
+    "Hey! 👋<br>I'm Lavan Kumar. I'm a Penetration Tester and Bug Bounty Hunter, I live for challenging adventures with the intent of making myself productive, skilled person and also to face challenges in this era of modern advanced cybersecurity world.",
   skills:
     '<span class="code">Languages:</span> Python, JavaScript, HTML, CSS<br><span class="code">Technical:</span> Web Application Pentesting, Network Penetration Testing, Kali Linux, Vulnerability Assessment, Reverse Engineering, Content Writer<br><span class="code">Tools:</span> Kali,Metasploit Framework, Nmap, Burpsuite, Nikto, Wireshark, Vega, Maltego, Shodan, Ollydbg, OWASP ZAP',
   edu:
